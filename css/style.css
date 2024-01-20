@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+* {
+    font-family: 'Poppins';
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    min-height: 420px;
+}
+
+h1 {
+    color: gold;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: burlywood;
+    cursor: pointer;
+}
+
+.music h6:hover {
+    color: gold;
+    font-weight: bold;
+}
